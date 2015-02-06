@@ -1,0 +1,52 @@
+body, html{ 
+    padding:0px; 
+    margin:0px; 
+    font-family: "Helvetica", sans-serif; 
+    font-size: 16px;
+    height:100%; 
+    width: 100%; 
+} 
+#landingLogo img{ 
+    display:block; 
+    margin: 0 auto; 
+} 
+#landingLogo{ 
+    margin-top:5vh; 
+} 
+h1{ 
+font-size: 2rem; 
+    font-weight: 200; 
+    text-align: center; 
+    color:#0055A5; 
+    margin-top:2rem; 
+} 
+p{ 
+ text-align: center; 
+ color:#777; 
+ line-height: 1.5rem; 
+} 
+li{ 
+ list-style: none; 
+    text-align: center; 
+    padding-bottom:10px; 
+    color:grey; 
+} 
+li strong{ 
+    font-size: 1.2rem; 
+    color:#0055A5; 
+} 
+a{ 
+    color: #555; 
+    text-decoration: underline; 
+} 
+footer{ 
+    text-align: center; 
+    font-size: 10px; 
+    color:#0055A5; 
+} 
+ul{ 
+    margin:0; 
+    padding:0;
+    margin-bottom: 15px;
+    margin-top:2vh; 
+} 
